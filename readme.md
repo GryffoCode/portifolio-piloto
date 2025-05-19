@@ -11,10 +11,6 @@ Apresentação de um futuro portifólio de um estudante de programação.
 
 <br>
 
-<p align="center">
-  <img alt="Portifólio Piloto" src=".assets/preview.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
