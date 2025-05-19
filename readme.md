@@ -12,7 +12,7 @@ Apresentação de um futuro portifólio de um estudante de programação.
 <br>
 
 <p align="center">
-  <img alt="Portifólio Piloto" src=".github/preview.png" width="100%">
+  <img alt="Portifólio Piloto" src=".assets/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
